@@ -38,8 +38,9 @@
 **Settings Page:**
 ![alt text](assets/image.png)
 **Carousel Example:**
-![alt text](assests/image-1.png)
+![alt text](assets/image-1.png)
 ![alt text](assets/image-2.png)
 
 ```text
 [featured_insights id='14123,14127,14130']
+
